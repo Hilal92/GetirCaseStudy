@@ -52,8 +52,8 @@ Clone the repository
 Use Git to clone polar-crag-76967's source code to your local machine.
  ```
   ```
-$ heroku git:clone -a polar-crag-76967
-$ cd polar-crag-76967
+$ heroku git:clone -a radiant-reaches-79121
+$ cd radiant-reaches-79121
  ```
 Deploy your changes
 Make some changes to the code you just cloned and deploy them to Heroku using Git.
@@ -73,7 +73,7 @@ git push heroku main
  ```
 heroku set environment variables
  ```
-heroku config:set "HEROKU_URL=https://polar-crag-76967.herokuapp.com/"
+heroku config:set "HEROKU_URL=https://radiant-reaches-79121.herokuapp.com/"
 heroku config:set "MONGODB_URL ="mongodb+srv://challengeUser:WUMglwNBaydH8Yvu@challenge-xzwqd.mongodb.net/getir- case-study?retryWrites=true"
  ```
 ensure your app is running
