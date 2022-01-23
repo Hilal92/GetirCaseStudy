@@ -49,8 +49,10 @@ If you haven't already, log in to your Heroku account and follow the prompts to 
  ```
 $ heroku login
 Clone the repository
-Use Git to clone polar-crag-76967's source code to your local machine.
+Use Git to clone radiant-reaches-79121's source code to your local machine.
  ```
+ Heroku git URL
+https://git.heroku.com/radiant-reaches-79121.git
   ```
 $ heroku git:clone -a radiant-reaches-79121
 $ cd radiant-reaches-79121
